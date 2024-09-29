@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning Java & Python
 
-- 💼 I'm looking for an Software Development Engineer starting from 2023 Octorber.
+- 💼 I'm looking for an Software Development Engineer starting from 2024 Octorber.
 
 - 💻 All of my projects are available at [https://github.com/gracechenchen2019?tab=repositories](https://github.com/gracechenchen2019?tab=repositories)  
 
