@@ -15,7 +15,7 @@
 
 - 💻 All of my projects are available at [https://github.com/gracechenchen2019?tab=repositories](https://github.com/gracechenchen2019?tab=repositories)  
 
-- ✉️ How to reach me [gracechenchen2022@gmail.com](gracechenchen@gmail.com)  
+- ✉️ How to reach me [gracechenchen2024@gmail.com](gracechenchen@gmail.com)  
 
 ### <div align="center">Technical Stack</div><br />
 
