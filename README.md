@@ -75,8 +75,8 @@
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=gracechenchen2019&&style=flat-square" align="center" />
 </div>  
-  
-#<br/>  
-#<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=gracechenchen2019" align="center" /></div>
-#<br/>
-
+<!--
+<br/>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=gracechenchen2019" align="center" /></div>
+<br/>
+-->
