@@ -9,7 +9,7 @@
 
 - 🎓  I recently enrolled in a Master's program in Computer Science at Johns Hopkins University and I am excited to continue my education and build upon my foundation in computer science. 
 
-- 🌱 I’m currently learning Java & Rust
+- 🌱 I’m currently learning Java & Python
 
 - 💼 I'm looking for an Software Development Engineer starting from 2023 Octorber.
 
