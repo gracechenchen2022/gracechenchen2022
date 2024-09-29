@@ -7,7 +7,9 @@
 
 ### <div align="center">My Brief Introduction</div><br />
 
-- 🎓  I recently enrolled in a Master's program in Computer Science at Johns Hopkins University and I am excited to continue my education and build upon my foundation in computer science. 
+- 🎓 I am currently pursuing a Master’s degree in Computer Science at Johns Hopkins University while working full-time at Barclays. I have 4 years of hands-on experience in software development, including project management and full-stack development
+
+- 🎓 I have worked on a variety of projects, ranging from recommendation systems to full-stack web applications, utilizing technologies such as Java, Python, HTML, CSS, JavaScript, and Hibernate.
 
 - 🌱 I’m currently learning Java & Python
 
